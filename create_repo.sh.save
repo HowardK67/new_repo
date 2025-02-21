@@ -1,0 +1,12 @@
+in/bash
+gh repo create new_repo --public --source=. --remote=origin || echo "Failed"#!/bin/bash
+gh repo create new_repo --public --source=. --remote=origin || echo "Failed"#!/bin/bash
+gh repo create new_repo --public --source=. --remote=origin || echo "Failed"#!/bin/bash
+gh repo create new_repo --public --source=. --remote=origin || echo "Failed"#!/bin/bash
+gh repo create new_repo --public --source=. --remote=origin || echo "Failed"#!/bin/bash
+gh repo create new_repo --public --source=. --remote=origin || echo "Failed"#!/bin/bash
+gh repo create new_repo --public --source=. --remote=origin || echo "Failed"#!/bin/bash
+gh repo create new_repo --public --source=. --remote=origin || echo "Failed"#!/bin/bash
+gh repo create new_repo --public --source=. --remote=origin || echo "Failed"f [ -z "$GH_TOKEN" ]; then
+    echo "Do you have a GitHub token? Set as GH_
+gh repo create new_repo --public --source=. --r
